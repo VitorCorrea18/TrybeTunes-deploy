@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TrybeTunes-deploy/static/css/main.c5ec26f1.chunk.css",
+    "main.js": "/TrybeTunes-deploy/static/js/main.5c696f75.chunk.js",
+    "main.js.map": "/TrybeTunes-deploy/static/js/main.5c696f75.chunk.js.map",
+    "runtime-main.js": "/TrybeTunes-deploy/static/js/runtime-main.c2d7bc3b.js",
+    "runtime-main.js.map": "/TrybeTunes-deploy/static/js/runtime-main.c2d7bc3b.js.map",
+    "static/js/2.25468904.chunk.js": "/TrybeTunes-deploy/static/js/2.25468904.chunk.js",
+    "static/js/2.25468904.chunk.js.map": "/TrybeTunes-deploy/static/js/2.25468904.chunk.js.map",
+    "index.html": "/TrybeTunes-deploy/index.html",
+    "static/css/main.c5ec26f1.chunk.css.map": "/TrybeTunes-deploy/static/css/main.c5ec26f1.chunk.css.map",
+    "static/js/2.25468904.chunk.js.LICENSE.txt": "/TrybeTunes-deploy/static/js/2.25468904.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c2d7bc3b.js",
+    "static/js/2.25468904.chunk.js",
+    "static/css/main.c5ec26f1.chunk.css",
+    "static/js/main.5c696f75.chunk.js"
+  ]
+}
